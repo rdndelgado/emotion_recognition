@@ -1,11 +1,8 @@
 Dataset name: user_reviews.csv
-
-Dataset url: https://www.kaggle.com/code/mmmarchetti/play-store-sentiment-analysis-of-user-reviews/input?select=user_reviews.csv
-
+Dataset URL: https://www.kaggle.com/code/mmmarchetti/play-store-sentiment-analysis-of-user-reviews/input?select=user_reviews.csv
 Total participants: 7486
 
 Preprocessing techniques applied:
-
 - Handling missing values (NaN)
 - Tokenization
 - Stopwords Removal
@@ -15,7 +12,7 @@ Preprocessing techniques applied:
 - Feature Labelling
 - Word Vectorization
 
-Type of Modality: Liguistics modality (text)
+Type of Modality: Lingguistics modality (text)
 Type of emotion recognition model used: Discrete emotion model
 ML algorithm used: SVC (Support Vector Classifier)
 
