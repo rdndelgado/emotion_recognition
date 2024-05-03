@@ -12,7 +12,7 @@
 - Feature Labelling
 - Word Vectorization
 
-**Type of Modality**: Lingguistics modality (text)  
+**Type of Modality**: Linguistics modality (text)  
 **Type of emotion recognition model used**: Discrete emotion model  
 **ML algorithm used**: SVC (Support Vector Classifier)
 
